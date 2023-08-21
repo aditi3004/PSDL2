@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment2_661</string>
+    <string-array name="font_size">
+        <item>"15"</item>
+        <item>"25"</item>
+        <item>"45"</item>
+    </string-array>
+
+    <string-array name="font_style">
+        <item>"Bold"</item>
+        <item>"Italics"</item>
+        <item>"Underline"</item>
+    </string-array>
+
+    <string-array name="font_color">
+        <item>"blue"</item>
+        <item>"red"</item>
+        <item>"green"</item>
+    </string-array>
+</resources>
